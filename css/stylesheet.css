@@ -1,0 +1,32 @@
+header{
+    height: 100px;
+    width: 1520px;
+    background-color: black;
+    text-align: center;
+}
+h1{
+    padding-top: 50px;
+    color: white;
+}
+
+
+
+#theForm{
+    /* background-color: blueviolet; */
+    width: 200px; 
+    padding-top: 200px;
+    padding-left: 200px;
+
+
+}
+
+table tr td{
+
+    border: 2px;
+
+
+}
+
+body{
+    background-image: url('blob:https://alqudscollege-my.sharepoint.com/1192285e-a912-4773-92d6-dabd0e30c525');
+  }
